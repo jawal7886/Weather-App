@@ -1,0 +1,11 @@
+{
+    "apiConfig": {
+        "baseUrl": "https://api.openweathermap.org/data/2.5/",
+        "defaultLocation": "New York",
+        "temperatureUnit": "metric"
+    },
+    "appSettings": {
+        "theme": "light",
+        "language": "en"
+    }
+} 
